@@ -1,0 +1,20 @@
+{
+  "name": "ctf-platform-frontend-nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "lucide-react": "^0.378.0",
+    "socket.io-client": "^4.8.1",
+    "framer-motion": "^11.0.0",
+    "gsap": "^3.12.0"
+  }
+}
